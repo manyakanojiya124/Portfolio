@@ -114,15 +114,19 @@ const About = () => {
         </motion.h3>
         <ul className='list-disc ml-6 mt-4 text-gray-300 leading-[28px]'>
           <li>
-            🏆 <b>Winner – The Glitter Idea Hackathon (International Level)</b>: 
+            🏆 <b>Winner – The Glitter Idea Hackathon (International Level - 2024)</b>: 
             Developed <b>MEDSDB</b>, a decentralized medical data platform recognized for innovation and global impact.
           </li>
           <li>
-            🥇 <b>1st Place – Innoverse’36 Hackathon (SGT University)</b>: 
+            🥇 <b>1st Place – Innoverse’36 Hackathon (SGT University - 2025)</b>: 
+            Led <b>Team Byte Wizards</b> to create a full-stack IoT solution within 36 hours.
+          </li>
+             <li>
+            🥈 <b>1st Place – CodeSphere (SGT Universit - 2026)</b>: 
             Led <b>Team Byte Wizards</b> to create a full-stack IoT solution within 36 hours.
           </li>
           <li>
-            🥈 <b>2nd Place – Intra-Institutional Idea Competition (GITM, Gurugram)</b>: 
+            🥈 <b>2nd Place – Intra-Institutional Idea Competition (GITM, Gurugram - 2024)</b>: 
             Recognized for innovation during <b>Frost Fiesta 2024</b> by institute leadership.
           </li>
         </ul>

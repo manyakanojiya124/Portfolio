@@ -12,10 +12,8 @@ const services = [
     title: "AI & Data Science Enthusiast",
     icon: "/icons/ai.png", // replace with your icon path or image
   },
-  {
-    title: "Cloud & DevOps Learner",
-    icon: "/icons/cloud.png",
-  },
+
+  
   {
     title: "Machine Learning Practitioner",
     icon: "/icons/ml.png",

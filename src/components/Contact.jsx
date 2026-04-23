@@ -20,7 +20,7 @@ const Contact = () => {
   setLoading(true);
 
   try {
-    const res = await fetch("http://localhost:5001/api/send-mail", {
+    const res = await fetch("https://manya-kanojia.vercel.app/api/send-mail", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(form),

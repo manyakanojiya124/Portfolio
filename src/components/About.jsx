@@ -122,7 +122,7 @@ const About = () => {
             Led <b>Team Byte Wizards</b> to create a full-stack IoT solution within 36 hours.
           </li>
              <li>
-            🥈 <b>1st Place – CodeSphere (SGT Universit - 2026)</b>: 
+           🥇 <b>1st Place – CodeSphere (SGT Universit - 2026)</b>: 
             Led <b>Team Byte Wizards</b> to create a full-stack IoT solution within 36 hours.
           </li>
           <li>

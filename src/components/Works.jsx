@@ -19,7 +19,7 @@ const projects = [
       { name: "TailwindCSS", color: "pink-text-gradient" },
     ],
     // Represents a modern portfolio/code editor aesthetic
-    image: "/project/1.png",
+    image: "/project/2.png",
     source_code_link: "https://github.com/manyakanojiya124/Portfolio",
     live_link: "https://manya-kanojia.vercel.app/",
   },
@@ -33,7 +33,7 @@ const projects = [
       { name: "React", color: "pink-text-gradient" },
     ],
     // Cybersecurity / threat detection aesthetic
-    image: "/project/2.png",
+    image: "/project/1.png",
     source_code_link: "https://github.com/manyakanojiya124/CyberSentinal",
     live_link: "https://cybersentinel-pearl.vercel.app/",
   },
